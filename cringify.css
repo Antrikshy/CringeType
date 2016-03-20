@@ -24,16 +24,16 @@ small {
 }
 
 ::-webkit-input-placeholder {
-    color: #ddd;
+    color: #fff;
 }
 ::-moz-placeholder {
-    color: #ddd;
+    color: #fff;
 }
 :-ms-input-placeholder {*/
-    color: #ddd;
+    color: #fff;
 }
 :-moz-placeholder {*/
-    color: #ddd;
+    color: #fff;
 }
 
 .branding {
